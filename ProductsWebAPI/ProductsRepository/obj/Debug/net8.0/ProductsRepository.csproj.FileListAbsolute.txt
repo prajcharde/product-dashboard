@@ -1,0 +1,14 @@
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.csproj.AssemblyReference.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.AssemblyInfoInputs.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.AssemblyInfo.cs
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.csproj.CoreCompileInputs.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\bin\Debug\net8.0\ProductsRepository.deps.json
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\bin\Debug\net8.0\ProductsRepository.runtimeconfig.json
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\bin\Debug\net8.0\ProductsRepository.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\bin\Debug\net8.0\ProductsRepository.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\refint\ProductsRepository.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ProductsRepository.genruntimeconfig.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsRepository\obj\Debug\net8.0\ref\ProductsRepository.dll

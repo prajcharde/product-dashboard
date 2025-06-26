@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ProductsWebAPI.Controllers.CategoriesController",
+    "Method": "GetAllCategoriesAsync",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductsWebAPI.Controllers.ProductsController",
+    "Method": "GetAllProductsAsync",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductsWebAPI.Controllers.ProductsController",
+    "Method": "CreateProductAsync",
+    "RelativePath": "api/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDto",
+        "Type": "ProductsDTOs.Classes.CreateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

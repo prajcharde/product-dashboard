@@ -1,0 +1,17 @@
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.csproj.AssemblyReference.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.AssemblyInfoInputs.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.AssemblyInfo.cs
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.csproj.CoreCompileInputs.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsServices.deps.json
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsServices.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsServices.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsDTOs.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsRepository.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsDTOs.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\bin\Debug\net8.0\ProductsRepository.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\Products.B386F416.Up2Date
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\refint\ProductsServices.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ProductsServices.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsServices\obj\Debug\net8.0\ref\ProductsServices.dll

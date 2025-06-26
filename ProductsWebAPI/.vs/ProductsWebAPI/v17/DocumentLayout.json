@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8FB8A4-57EF-4860-9A16-1BF54C4AF5D5}|ProductsDTOs\\ProductsDTOs.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsdtos\\classes\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8FB8A4-57EF-4860-9A16-1BF54C4AF5D5}|ProductsDTOs\\ProductsDTOs.csproj|solutionrelative:productsdtos\\classes\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8FB8A4-57EF-4860-9A16-1BF54C4AF5D5}|ProductsDTOs\\ProductsDTOs.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsdtos\\classes\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8FB8A4-57EF-4860-9A16-1BF54C4AF5D5}|ProductsDTOs\\ProductsDTOs.csproj|solutionrelative:productsdtos\\classes\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8FB8A4-57EF-4860-9A16-1BF54C4AF5D5}|ProductsDTOs\\ProductsDTOs.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsdtos\\classes\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8FB8A4-57EF-4860-9A16-1BF54C4AF5D5}|ProductsDTOs\\ProductsDTOs.csproj|solutionrelative:productsdtos\\classes\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\classes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\classes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\classes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\classes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\datamodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\datamodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\datamodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\datamodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsservices\\classes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|solutionrelative:productsservices\\classes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsservices\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|solutionrelative:productsservices\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsservices\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|solutionrelative:productsservices\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productstest\\controllerstest\\productscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|solutionrelative:productstest\\controllerstest\\productscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productstest\\controllerstest\\categoriescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|solutionrelative:productstest\\controllerstest\\categoriescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productstest\\servicestest\\productsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|solutionrelative:productstest\\servicestest\\productsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productstest\\servicestest\\categoriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E4E21-7BD1-40A7-B95C-27F93B1FB007}|ProductsTest\\ProductsTest.csproj|solutionrelative:productstest\\servicestest\\categoriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\productswebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\productswebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productswebapi\\productswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3516E02-CF78-4949-B346-B6B09267E850}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\productswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\migrations\\20250621112807_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\migrations\\20250621112807_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsrepository\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6748242D-5B9A-4486-A331-43D439236685}|ProductsRepository\\ProductsRepository.csproj|solutionrelative:productsrepository\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|c:\\users\\prajc\\projects\\dunnhumby\\productswebapi\\productsservices\\productsservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CA8B16F2-F081-4C85-B8B4-C9AE2F00AD01}|ProductsServices\\ProductsServices.csproj|solutionrelative:productsservices\\productsservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1145,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:553805782:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsDTOs\\Classes\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductsDTOs\\Classes\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsDTOs\\Classes\\ProductDTO.cs",
+              "RelativeToolTip": "ProductsDTOs\\Classes\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:19:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsDTOs\\Classes\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductsDTOs\\Classes\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsDTOs\\Classes\\CreateProductDTO.cs",
+              "RelativeToolTip": "ProductsDTOs\\Classes\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:19:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsDTOs\\Classes\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "ProductsDTOs\\Classes\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsDTOs\\Classes\\CategoryDTO.cs",
+              "RelativeToolTip": "ProductsDTOs\\Classes\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:18:07.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Classes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Classes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Classes\\CategoryRepository.cs",
+              "RelativeToolTip": "ProductsRepository\\Classes\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:43:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Classes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Classes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Classes\\ProductRepository.cs",
+              "RelativeToolTip": "ProductsRepository\\Classes\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:03:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductsRepository\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:19:36.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\DataModels\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\DataModels\\Product.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\DataModels\\Product.cs",
+              "RelativeToolTip": "ProductsRepository\\DataModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:20:27.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\DataModels\\Category.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\DataModels\\Category.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\DataModels\\Category.cs",
+              "RelativeToolTip": "ProductsRepository\\DataModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:19:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProductsRepository\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:43:12.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductsRepository\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:02:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\Classes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ProductsServices\\Classes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\Classes\\CategoryService.cs",
+              "RelativeToolTip": "ProductsServices\\Classes\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:48:08.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ProductsServices\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ProductsServices\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:48:25.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductsServices\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProductsServices\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:05:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Program.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:25:06.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ControllersTest\\ProductsControllerTest.cs",
+              "RelativeDocumentMoniker": "ProductsTest\\ControllersTest\\ProductsControllerTest.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ControllersTest\\ProductsControllerTest.cs",
+              "RelativeToolTip": "ProductsTest\\ControllersTest\\ProductsControllerTest.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:05:33.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ServicesTest\\ProductsServiceTest.cs",
+              "RelativeDocumentMoniker": "ProductsTest\\ServicesTest\\ProductsServiceTest.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ServicesTest\\ProductsServiceTest.cs",
+              "RelativeToolTip": "ProductsTest\\ServicesTest\\ProductsServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:43:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ServicesTest\\CategoriesServiceTest.cs",
+              "RelativeDocumentMoniker": "ProductsTest\\ServicesTest\\CategoriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ServicesTest\\CategoriesServiceTest.cs",
+              "RelativeToolTip": "ProductsTest\\ServicesTest\\CategoriesServiceTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:43:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ControllersTest\\CategoriesControllerTest.cs",
+              "RelativeDocumentMoniker": "ProductsTest\\ControllersTest\\CategoriesControllerTest.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsTest\\ControllersTest\\CategoriesControllerTest.cs",
+              "RelativeToolTip": "ProductsTest\\ControllersTest\\CategoriesControllerTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:43:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:27:55.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:13:54.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:29:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T09:37:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductsWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\ProductsWebAPI.http",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\ProductsWebAPI.http",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\ProductsWebAPI.http",
+              "RelativeToolTip": "ProductsWebAPI\\ProductsWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-26T20:02:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\ProductsWebAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\ProductsWebAPI.csproj",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsWebAPI\\ProductsWebAPI.csproj",
+              "RelativeToolTip": "ProductsWebAPI\\ProductsWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T10:20:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250621112807_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Migrations\\20250621112807_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Migrations\\20250621112807_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Migrations\\20250621112807_InitialCreate.Designer.cs",
+              "RelativeToolTip": "ProductsRepository\\Migrations\\20250621112807_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:36:23.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProductsRepository\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsRepository\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProductsRepository\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:20:49.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsServices",
+              "DocumentMoniker": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\ProductsServices.csproj",
+              "RelativeDocumentMoniker": "ProductsServices\\ProductsServices.csproj",
+              "ToolTip": "C:\\Users\\prajc\\Projects\\Dunnhumby\\ProductsWebAPI\\ProductsServices\\ProductsServices.csproj",
+              "RelativeToolTip": "ProductsServices\\ProductsServices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T13:57:33.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

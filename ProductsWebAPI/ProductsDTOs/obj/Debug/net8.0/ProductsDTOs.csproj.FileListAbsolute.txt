@@ -1,0 +1,11 @@
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\bin\Debug\net8.0\ProductsDTOs.deps.json
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\bin\Debug\net8.0\ProductsDTOs.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\bin\Debug\net8.0\ProductsDTOs.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ProductsDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ProductsDTOs.AssemblyInfoInputs.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ProductsDTOs.AssemblyInfo.cs
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ProductsDTOs.csproj.CoreCompileInputs.cache
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ProductsDTOs.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\refint\ProductsDTOs.dll
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ProductsDTOs.pdb
+C:\Users\prajc\Projects\Dunnhumby\ProductsWebAPI\ProductsDTOs\obj\Debug\net8.0\ref\ProductsDTOs.dll
